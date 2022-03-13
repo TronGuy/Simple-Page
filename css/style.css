@@ -92,3 +92,36 @@ input{
     
 }
 
+@media screen and (max-width: 800px){
+	
+	.btn{
+
+		width:15rem ;
+		height:5rem ;
+		font-size:2rem;
+		background-color:rgb(187,140,9);	
+	    border-bottom-color:rgb(187,140,9);			
+    	border-top-color: rgb(187, 140, 9);
+   	 	border-left-color: rgb(187, 140, 9);
+   	 	border-right-color: rgb(187, 140, 9);
+		
+
+	}
+
+
+	.nome{
+		width:25rem;
+		height:2rem;
+		margin:20px;
+		font-size:1.5rem;
+		border-bottom-width:3px;	
+		padding-bottom:10px;
+
+		
+		
+}
+
+
+}
+
+
